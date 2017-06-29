@@ -1,0 +1,31 @@
+Attribute Evaluator (supervised, Class (nominal): 22 class):
+	ReliefF Ranking Filter
+	Instances sampled: all
+	Number of nearest neighbours (k): 10
+	Exponentially decreasing (with distance) influence for
+	nearest neighbours. Sigma: 2
+
+Ranked attributes:
+ 0.2477   16 16
+ 0.2067   18 18
+ 0.1951    9 9
+ 0.1603   21 21
+ 0.1458    1 1
+ 0.1437   14 14
+ 0.1359   15 15
+ 0.1239    2 2
+ 0.1156   13 13
+ 0.1068    8 8
+ 0.0911    7 7
+ 0.0668    4 4
+ 0.0615   17 17
+ 0.0601   11 11
+ 0.0587   10 10
+ 0.0587   12 12
+ 0.0537   20 20
+ 0.0421    5 5
+ 0.0338    6 6
+ 0.0323   19 19
+ 0.0132    3 3
+
+Selected attributes: 16,18,9,21,1,14,15,2,13,8,7,4,17,11,10,12,20,5,6,19,3 : 21

@@ -1,0 +1,30 @@
+Attribute Evaluator (supervised, Class (nominal): 22 class):
+	OneR feature evaluator.
+
+	Using 10 fold cross validation for evaluating attributes.
+	Minimum bucket size for OneR: 6
+
+Ranked attributes:
+90.846   14 14
+90.846   15 15
+90.328    3 3
+90.328    4 4
+90.328    2 2
+89.983    7 7
+89.983    6 6
+89.983   21 21
+89.983    5 5
+89.983    9 9
+89.983    8 8
+89.983   11 11
+89.983   10 10
+89.983   17 17
+89.983   19 19
+89.983   18 18
+89.983   16 16
+89.983   20 20
+89.983   13 13
+89.983   12 12
+89.983    1 1
+
+Selected attributes: 14,15,3,4,2,7,6,21,5,9,8,11,10,17,19,18,16,20,13,12,1 : 21
